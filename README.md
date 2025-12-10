@@ -1,0 +1,1 @@
+# Vliv-osv-tlen-na-lov-ka-v-dom-cnosti
