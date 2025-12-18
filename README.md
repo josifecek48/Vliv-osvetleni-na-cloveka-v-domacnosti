@@ -7,14 +7,21 @@
 
 ## Současný stav poznání
 
-#### Osvětlení má na člověka mnohem větší vliv, než se na první pohled zdá. Z hlediska biologie hraje klíčovou roli cirkadiánní rytmus, tedy přirozený 24hodinový cyklus, který řídí spánek, bdělost, tělesnou aktivitu nebo tvorbu hormonů. Tento rytmus je výrazně ovlivňován světlem. Jasné nebo studené světlo zvyšuje bdělost a aktivitu, zatímco teplejší a slabší světlo podporuje zklidnění organismu a přípravu na spánek.
+### Cirkadiánní rytmus a světlo
 
-#### Velkou roli hraje také modré světlo. To je přirozeně obsažené v denním světle, ale moderní elektronické obrazovky ho vyzařují ve vysokém množství i večer, kdy by ho tělo dostávat nemělo. Modré světlo potlačuje melatonin – hormon zodpovědný za ospalost a usínání. Dlouhodobé vystavení modrému světlu večer může způsobovat problémy s usínáním, rozhození spánkového rytmu nebo pocit „přestimulovanosti“.
+#### Osvětlení má na člověka mnohem větší vliv, než se na první pohled zdá. Z hlediska biologie hraje klíčovou roli cirkadiánní rytmus, tedy přirozený 24hodinový cyklus, který řídí spánek, bdělost, tělesnou aktivitu nebo tvorbu hormonů. Tento rytmus je silně ovlivňován světlem, zejména jeho intenzitou a barvou. Denní světlo pomáhá udržovat tělo v aktivním režimu, zatímco nedostatek světla nebo teplé tlumené světlo signalizuje organismu, že se blíží doba spánku. Pokud je tento rytmus narušen, může docházet k problémům se spánkem, únavě nebo snížené koncentraci.
 
-#### Dalším důležitým faktorem je teplota světla. Teplá světla (kolem 2700 K) jsou příjemnější pro večerní použití, protože tělo tolik neaktivují. Studenější světla (4000–6500 K) zase pomáhají při práci nebo učení, protože podporují koncentraci. Špatně zvolené světlo může způsobit únavu očí, pálení, tlak, případně bolesti hlavy, protože oči se musí neustále přizpůsobovat jasovým rozdílům.
+### Modré světlo a melatonin
 
-#### Oči také reagují na intenzitu světla pomocí zornice a fotoreceptorů, které přepínají mezi viděním za světla a za šera. Pokud je světlo příliš silné nebo špatně směrované, může docházet k diskomfortu. Nedostatečné osvětlení zase nutí oko více zaostřovat, což může vést k napětí a únavě.
+#### Velkou roli v ovlivnění spánku hraje modré světlo. To je přirozeně obsažené v denním světle, ale moderní elektronická zařízení, jako jsou monitory nebo mobilní telefony, ho vyzařují ve vysokém množství i ve večerních hodinách. Modré světlo potlačuje tvorbu hormonu melatoninu, který je zodpovědný za pocit ospalosti a přípravu těla na spánek. Dlouhodobé vystavení modrému světlu večer může vést ke zhoršenému usínání, kratší délce spánku a celkovému narušení spánkového režimu.
 
+### Teplota světla a její vliv
+
+#### Dalším důležitým faktorem je teplota světla, která se udává v kelvinech. Teplá světla s nižší teplotou (přibližně 2700 K) jsou vhodná pro večerní použití, protože působí uklidňujícím dojmem a nepodporují tolik bdělost. Studenější světla (4000–6500 K) naopak podporují aktivitu a soustředění, a proto se používají při práci nebo učení. Nevhodně zvolená teplota světla může způsobovat únavu očí, bolesti hlavy nebo zhoršení schopnosti se soustředit.
+
+### Oči a vidění
+
+#### Lidské oči reagují na světlo pomocí zornice a fotoreceptorů, které se přizpůsobují různým světelným podmínkám. Příliš silné nebo nevhodně směrované světlo může způsobovat diskomfort, oslnění a únavu očí. Naopak nedostatečné osvětlení nutí oči více zaostřovat, což může vést k pálení očí, bolestem hlavy nebo snížení zrakového komfortu. Správně zvolené osvětlení je proto důležité nejen pro zrak, ale i pro celkovou pohodu.
 ## Současné osvětlení v mém pokoji
 
 ### V pokoji používám následující typy osvětlení, které budu v projektu zohledňovat:
