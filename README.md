@@ -55,8 +55,11 @@ Ve druhém pololetí doplním fotografie.
 ## Citace a zdroje
 
 Ministerstvo zdravotnictví ČR. Online. Dostupné z: https://mzd.gov.cz/tiskove-centrum-mz/modre-svetlo-negativne-ovlivnuje-kvalitu-spanku-odbornici-doporucuji-dodrzovat-pravidla-spankove-hygieny/. [cit. 2025-12-18].
+
 Deník.cz. Online. Dostupné z: https://pr.denik.cz/doporucujeme/kolik-modreho-svetla-je-moc-a-kdy-nam-muze-i-prospet-20250623.html. [cit. 2025-12-18].
+
 Modré světlo. Online. Dostupné z: https://modresvetlo.cz/. [cit. 2025-12-18].
+
 Medicina.cz. Online. Dostupné z: https://medicina.cz/clanky/16232/34/Kdy-modre-svetlo-skodi-a-kdy-prospiva/. [cit. 2025-12-18].
 
 
