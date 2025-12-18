@@ -9,7 +9,7 @@
 
 ### Cirkadiánní rytmus a světlo
 
-#### Osvětlení má na člověka mnohem větší vliv, než se na první pohled zdá. Z hlediska biologie hraje klíčovou roli cirkadiánní rytmus, tedy přirozený 24hodinový cyklus, který řídí spánek, bdělost, tělesnou aktivitu nebo tvorbu hormonů. Tento rytmus je silně ovlivňován světlem, zejména jeho intenzitou a barvou. Denní světlo pomáhá udržovat tělo v aktivním režimu, zatímco nedostatek světla nebo teplé tlumené světlo signalizuje organismu, že se blíží doba spánku. Pokud je tento rytmus narušen, může docházet k problémům se spánkem, únavě nebo snížené koncentraci.
+Osvětlení má na člověka mnohem větší vliv, než se na první pohled zdá. Z hlediska biologie hraje klíčovou roli cirkadiánní rytmus, tedy přirozený 24hodinový cyklus, který řídí spánek, bdělost, tělesnou aktivitu nebo tvorbu hormonů. Tento rytmus je silně ovlivňován světlem, zejména jeho intenzitou a barvou. Denní světlo pomáhá udržovat tělo v aktivním režimu, zatímco nedostatek světla nebo teplé tlumené světlo signalizuje organismu, že se blíží doba spánku. Pokud je tento rytmus narušen, může docházet k problémům se spánkem, únavě nebo snížené koncentraci.
 
 ### Modré světlo a melatonin
 
