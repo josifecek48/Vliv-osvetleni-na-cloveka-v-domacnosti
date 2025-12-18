@@ -52,10 +52,9 @@ Ve druhém pololetí doplním fotografie.
 
 ![mapa](mapa.png)
 
-
-
-
 ## Citace a zdroje
+
+Ministerstvo zdravotnictví ČR. Online. Dostupné z: https://mzd.gov.cz/tiskove-centrum-mz/modre-svetlo-negativne-ovlivnuje-kvalitu-spanku-odbornici-doporucuji-dodrzovat-pravidla-spankove-hygieny/. [cit. 2025-12-18].
 
 
 
