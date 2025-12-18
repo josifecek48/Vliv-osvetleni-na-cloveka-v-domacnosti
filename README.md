@@ -15,16 +15,18 @@
 
 #### Oči také reagují na intenzitu světla pomocí zornice a fotoreceptorů, které přepínají mezi viděním za světla a za šera. Pokud je světlo příliš silné nebo špatně směrované, může docházet k diskomfortu. Nedostatečné osvětlení zase nutí oko více zaostřovat, což může vést k napětí a únavě.
 
-## Současné osvětlení v domácnosti
+## Současné osvětlení v mém pokoji
 
-### V domácím prostředí používám následující typy osvětlení, které budu později v projektu zohledňovat:
+### V pokoji používám následující typy osvětlení, které budu později v projektu zohledňovat:
 
-#### hlavní světlo v pokoji: LED žárovka s teplým světlem
+#### hlavní světlo v pokoji: 
 
-#### lampička u postele: žárovka s nízkou teplotou světla vhodná večer
+#### lampička na stole: 
 
-#### osvětlení u pracovního stolu: bílé světlo z LED lampy vhodné pro čtení a práci
+#### osvětlení z hodin: 
 
-#### displeje telefonu a počítače: běžné LED obrazovky s možností aktivovat filtr modrého světla
+#### displej počítače: 
+
+#### displej telefonu: 
 
 #### Ve druhém pololetí doplním fotografie.
