@@ -50,6 +50,8 @@ Ve druhém pololetí doplním fotografie.
 
 ## Myšlenková mapa vytvořena v malování 
 
+![mapa](mapa.png)
+
 
 
 
