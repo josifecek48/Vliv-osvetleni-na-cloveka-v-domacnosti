@@ -62,6 +62,8 @@ Modré světlo. Online. Dostupné z: https://modresvetlo.cz/. [cit. 2025-12-18].
 
 Medicina.cz. Online. Dostupné z: https://medicina.cz/clanky/16232/34/Kdy-modre-svetlo-skodi-a-kdy-prospiva/. [cit. 2025-12-18].
 
+Performance lifestyle. Online. Dostupné z: https://www.youtube.com/watch?v=U8owuQVhkrA. [cit. 2025-12-18].
+
 
 
 
