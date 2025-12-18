@@ -64,6 +64,10 @@ Medicina.cz. Online. Dostupné z: https://medicina.cz/clanky/16232/34/Kdy-modre-
 
 Performance lifestyle. Online. Dostupné z: https://www.youtube.com/watch?v=U8owuQVhkrA. [cit. 2025-12-18].
 
+Chatgpt. Online. Dostupné z: https://chatgpt.com/. [cit. 2025-12-18].
+
+S projektem mi nejvíce pomáhal Chatgpt a mé poděkování patří z velké části jemu.
+
 
 
 
