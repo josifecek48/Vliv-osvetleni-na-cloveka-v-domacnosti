@@ -47,3 +47,14 @@
 #### Jako mobilní telefon používám iPhone 16, který má OLED displej a nabízí funkce pro úpravu světla displeje. Funkce True Tone automaticky přizpůsobuje barvy a jas displeje okolnímu osvětlení, čímž snižuje únavu očí. Režim Night Shift posouvá barvy displeje do teplejších tónů a omezuje množství modrého světla. Tyto funkce mohou částečně snížit negativní vliv telefonu na spánek, pokud je používán večer. Přesto však dlouhodobé používání telefonu před spaním není vhodné, protože světlo z displeje i samotná aktivita na telefonu mohou narušovat usínání.
 
 #### Ve druhém pololetí doplním fotografie.
+
+## Myšlenková mapa vytvořena v malování 
+
+
+
+
+## Citace a zdroje
+
+
+
+
