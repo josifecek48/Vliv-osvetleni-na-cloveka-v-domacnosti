@@ -68,6 +68,52 @@ Chatgpt. Online. Dostupné z: https://chatgpt.com/. [cit. 2025-12-18].
 
 S projektem mi nejvíce pomáhal Chatgpt a mé poděkování patří z velké části jemu.
 
+### Metody měření a plán postupu
+
+V praktické části projektu plánuji porovnat jednotlivé zdroje osvětlení, které používám ve svém pokoji. Cílem nebude laboratorně přesné měření, ale porovnání rozdílů mezi běžně používanými světelnými zdroji v domácnosti a jejich možného vlivu na člověka.
+
+## Při měření se chci zaměřit na:
+
+intenzitu světla
+typ a barvu světla
+subjektivní pocit únavy očí
+vliv na soustředění
+vliv na spánek a pocit ospalosti
+
+### Použité prostředky
+
+## K provedení měření plánuji použít:
+
+iPhone 16 (orientační měření pomocí aplikací a zapisování výsledků)
+monitor AOC C32G2ZE
+LED osvětlení v pokoji
+stolní lampičku Kaja KBL 1391 Silver
+
+### Předpokládané výsledky
+
+## Před samotným měřením předpokládám:
+
+monitor a telefon budou vyzařovat nejvíce modrého světla
+večerní používání monitoru a telefonu může negativně ovlivňovat usínání
+stmívatelná lampička bude působit příjemněji pro oči než hlavní osvětlení pokoje
+modré podsvícení hodin může mít negativní vliv při spánku
+teplejší a méně intenzivní světlo bude vhodnější pro večerní používání
+
+Po provedení měření porovnám skutečné výsledky s těmito předpoklady.
+
+### Možné negativní účinky nevhodného osvětlení
+
+Nevhodné osvětlení může mít negativní vliv na člověka. Nejčastěji se jedná o únavu očí, pálení očí, bolesti hlavy nebo problémy se soustředěním. Ve večerních hodinách může silné nebo studené světlo narušovat přirozený biologický rytmus člověka a zhoršovat kvalitu spánku. Elektronická zařízení navíc vyzařují větší množství modrého světla, které může ovlivňovat tvorbu melatoninu.
+
+## Přehled používaných světelných zdrojů
+
+# Zdroj světla       Typ      	Vhodná doba použití	            Možný vliv
+Hlavní světlo	    Bílé LED        	Přes den	            Podporuje aktivitu
+Lampička Kaja    	Stmívatelné LED	  Učení, večer	        Menší namáhání očí
+LED hodiny ALTRO	Modré LED	     Pouze orientační použití     	Může rušit spánek
+Monitor AOC	LED   displej	          Přes den	         Vyšší podíl modrého světla
+iPhone 16	OLED displej	            Běžné použití	     Večer může ovlivnit spánek
+
 
 
 
