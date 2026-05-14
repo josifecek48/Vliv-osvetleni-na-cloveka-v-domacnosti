@@ -93,15 +93,11 @@ V praktické části projektu plánuji porovnat jednotlivé zdroje osvětlení, 
 
 ### Před samotným měřením předpokládám:
 
-monitor a telefon budou vyzařovat nejvíce modrého světla
-
-večerní používání monitoru a telefonu může negativně ovlivňovat usínání
-
-stmívatelná lampička bude působit příjemněji pro oči než hlavní osvětlení pokoje
-
-modré podsvícení hodin může mít negativní vliv při spánku
-
-teplejší a méně intenzivní světlo bude vhodnější pro večerní používání
+- monitor a telefon budou vyzařovat nejvíce modrého světla
+- večerní používání monitoru a telefonu může negativně ovlivňovat usínání
+- stmívatelná lampička bude působit příjemněji pro oči než hlavní osvětlení pokoje
+- modré podsvícení hodin může mít negativní vliv při spánku
+- teplejší a méně intenzivní světlo bude vhodnější pro večerní používání
 
 Po provedení měření porovnám skutečné výsledky s těmito předpoklady.
 
@@ -111,7 +107,7 @@ Nevhodné osvětlení může mít negativní vliv na člověka. Nejčastěji se 
 
 ### Přehled používaných světelných zdrojů
 
-![tabulka](tabulka.png.png)
+![tabulka](tabulka.png)
 
 
 
