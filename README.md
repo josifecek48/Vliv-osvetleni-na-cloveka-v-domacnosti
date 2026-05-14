@@ -74,23 +74,20 @@ V praktické části projektu plánuji porovnat jednotlivé zdroje osvětlení, 
 
 ## Při měření se chci zaměřit na:
 
-intenzitu světla
-typ a barvu světla
-subjektivní pocit únavy očí
-vliv na soustředění
-vliv na spánek a pocit ospalosti
+- intenzitu světla
+- typ a barvu světla
+- subjektivní pocit únavy očí
+- vliv na soustředění
+- vliv na spánek a pocit ospalosti
 
 ## Použité prostředky
 
 ### K provedení měření plánuji použít:
 
-iPhone 16 (orientační měření pomocí aplikací a zapisování výsledků)  
-
-monitor AOC C32G2ZE  
-
-LED osvětlení v pokoji  
-
-stolní lampičku Kaja KBL 1391 Silver
+- iPhone 16 (orientační měření pomocí aplikací a zapisování výsledků)  
+- monitor AOC C32G2ZE  
+- LED osvětlení v pokoji  
+- stolní lampičku Kaja KBL 1391 Silver
 
 ## Předpokládané výsledky
 
