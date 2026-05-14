@@ -84,11 +84,11 @@ vliv na spánek a pocit ospalosti
 
 ### K provedení měření plánuji použít:
 
-iPhone 16 (orientační měření pomocí aplikací a zapisování výsledků)
+iPhone 16 (orientační měření pomocí aplikací a zapisování výsledků)  
 
-monitor AOC C32G2ZE
+monitor AOC C32G2ZE  
 
-LED osvětlení v pokoji
+LED osvětlení v pokoji  
 
 stolní lampičku Kaja KBL 1391 Silver
 
