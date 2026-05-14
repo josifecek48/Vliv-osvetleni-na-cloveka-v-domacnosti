@@ -75,27 +75,26 @@ V praktické části projektu plánuji porovnat jednotlivé zdroje osvětlení, 
 ## Při měření se chci zaměřit na:
 
 intenzitu světla
-
 typ a barvu světla
-
 subjektivní pocit únavy očí
-
 vliv na soustředění
-
 vliv na spánek a pocit ospalosti
 
-### Použité prostředky
+## Použité prostředky
 
-## K provedení měření plánuji použít:
+### K provedení měření plánuji použít:
 
 iPhone 16 (orientační měření pomocí aplikací a zapisování výsledků)
+
 monitor AOC C32G2ZE
+
 LED osvětlení v pokoji
+
 stolní lampičku Kaja KBL 1391 Silver
 
-### Předpokládané výsledky
+## Předpokládané výsledky
 
-## Před samotným měřením předpokládám:
+### Před samotným měřením předpokládám:
 
 monitor a telefon budou vyzařovat nejvíce modrého světla
 
@@ -109,11 +108,14 @@ teplejší a méně intenzivní světlo bude vhodnější pro večerní použív
 
 Po provedení měření porovnám skutečné výsledky s těmito předpoklady.
 
-## Možné negativní účinky nevhodného osvětlení
+### Možné negativní účinky nevhodného osvětlení
 
 Nevhodné osvětlení může mít negativní vliv na člověka. Nejčastěji se jedná o únavu očí, pálení očí, bolesti hlavy nebo problémy se soustředěním. Ve večerních hodinách může silné nebo studené světlo narušovat přirozený biologický rytmus člověka a zhoršovat kvalitu spánku. Elektronická zařízení navíc vyzařují větší množství modrého světla, které může ovlivňovat tvorbu melatoninu.
 
-## Přehled používaných světelných zdrojů
+### Přehled používaných světelných zdrojů
+
+![tabulka](tabulka.png.png)
+
 
 
 
