@@ -109,6 +109,31 @@ Nevhodné osvětlení může mít negativní vliv na člověka. Nejčastěji se 
 
 ![tabulka](tabulka.png)
 
+## Dvoutýdenní měření světla
+
+Po dobu dvou týdnů jsem sledoval reakce svého těla (únavu očí, soustředění a kvalitu usínání) při dvou zcela odlišných světelných režimech
+
+- 1. týden (Nekontrolovaný režim): Používal jsem monitor AOC a iPhone 16 ve večerních hodinách na plný jas bez jakýchkoliv filtrů. Nechal jsem svítit hlavní světlo a hodiny ALTRO běžným způsobem až do momentu ulehnutí do postele.
+
+- 2. týden (Optimalizovaný režim): Minimálně 90 minut před spaním jsem na iPhonu zapnul režim Night Shift, na monitoru AOC stáhl jas na minimum a zapnul noční režim Windows. Hlavní světlo jsem vypnul a svítil si pouze ztlumenou stolní lampičkou Kaja. Modrý displej hodin ALTRO jsem na noc vypojil (ručičky stejně nefungují 😂).
+
+## Výsledky pozorování a porovnání s předpoklady
+Po čtrnácti dnech testování zde zhodnotím, jak jednotlivé zdroje světla ovlivňovaly mé tělo, oči i spánek a zda se potvrdily mé původní předpoklady:
+
+### Vliv monitoru AOC a telefonu (Předpoklad se potvrdil):
+V prvním týdnu se mi usínalo velmi těžko. Cítil jsem se přestimulovaný, mozek nechtěl vypnout a po delším koukání do monitoru mě pálily oči a bylo to velmi nepříjemné. Ve druhém týdnu, kdy jsem jas stáhl a zbarvil displeje do oranžova, pálení očí úplně zmizelo a pocit normální ospalosti se dostavil o zhruba 45 minut dříve.
+
+### Vliv stolní lampičky Kaja (Předpoklad se potvrdil):
+Když jsem se potřeboval něco dělat do školy nebo i na počítači, silnější jas z lampičky mě udržel soustředěného. Jakmile jsem ale jas ubral na minimum, světlo vytvořilo příjemnou, klidnou atmosféru, která oči vůbec nenamáhala.
+
+### Vliv modrých hodin ALTRO (Předpoklad se napůl potvrdil):
+Modré světlo z hodin v naprosté tmě sice svítí málo a lidské oko je na modrou barvu v noci extrémně citlivé, tak já jsem na to upřímně tak zvyklý, že mi to ani nevadilo 🤭. Musím ale uznat, že když jsem hodiny ve druhém týdnu na noc vypojil, tak spánek byl o něco hlubší, delší ale jinak mně to osobně nijak nevadí. Věřím ale, že pro lidi co nejsou zvyklý to může být nepříjemné a ráno by se jim špatně stávalo.
+
+### Problémy při řešení a jejich překonání
+Během druhého týdne bylo nejtěžší si zvyknout na disciplínu. Nezapomenout včas ztlumit světla a zapnout filtry je těžší než se zdá. Tento problém jsem ale vyřešil tak, že jsem si na iPhonu nastavil automatické zapínání funkce Night Shift a ztlumení jasu se začlo spouštět samo ve 21:00, což mě zároveň upozornovalo, že mám ztlumit i stolní lampičku Kaja.
+
+### Závěr projektu 
+Čtrnáctidenní praktická část projektu jasně dokázala, že světlo má velký a silný vliv na naši pohodu a hlavně spánek. Pro mě to bylo velmi zajímavé téma a chci ještě jednou poděkovat za jeho doporučení. Chtěl bych i poděkovat ChatuGPT a Gemini AI za pomoc s formulováním některých textů a s doporučením jak si sestavit plán měření. Nebylo to nic co bych si nemyslel, ale bylo krásně vidět jak se mi to potvrdilo a jak to světlo má okamžitý vliv ze dne na den. Takže doufám, že se Vám projekt líbí, a že Vás třeba i zaujal 😇. Děkuji moc, Josef Hovorka 🤪.
 
 
 
