@@ -84,10 +84,11 @@ V praktické části projektu plánuji porovnat jednotlivé zdroje osvětlení, 
 
 ### K provedení měření plánuji použít:
 
-- iPhone 16 (orientační měření pomocí aplikací a zapisování výsledků)  
+- iPhone 16 
 - monitor AOC C32G2ZE  
 - LED osvětlení v pokoji  
 - stolní lampičku Kaja KBL 1391 Silver
+- Hodiny na zdi s modrým světlem ALTRO
 
 ## Předpokládané výsledky
 
@@ -95,7 +96,7 @@ V praktické části projektu plánuji porovnat jednotlivé zdroje osvětlení, 
 
 - monitor a telefon budou vyzařovat nejvíce modrého světla
 - večerní používání monitoru a telefonu může negativně ovlivňovat usínání
-- stmívatelná lampička bude působit příjemněji pro oči než hlavní osvětlení pokoje
+- lampička bude působit příjemněji pro oči než hlavní osvětlení pokoje
 - modré podsvícení hodin může mít negativní vliv při spánku
 - teplejší a méně intenzivní světlo bude vhodnější pro večerní používání
 
@@ -111,11 +112,11 @@ Nevhodné osvětlení může mít negativní vliv na člověka. Nejčastěji se 
 
 ## Dvoutýdenní měření světla
 
-Po dobu dvou týdnů jsem sledoval reakce svého těla (únavu očí, soustředění a kvalitu usínání) při dvou zcela odlišných světelných režimech
+Po dobu dvou týdnů jsem sledoval reakce svého těla (únavu očí, soustředění a kvalitu usínání) při dvou zcela odlišných světelných režimech:
 
-- 1. týden (Nekontrolovaný režim): Používal jsem monitor AOC a iPhone 16 ve večerních hodinách na plný jas bez jakýchkoliv filtrů. Nechal jsem svítit hlavní světlo a hodiny ALTRO běžným způsobem až do momentu ulehnutí do postele.
+1. týden (Nekontrolovaný režim): Používal jsem monitor AOC a iPhone 16 ve večerních hodinách na plný jas bez jakýchkoliv filtrů. Nechal jsem svítit hlavní LED světlo a hodiny ALTRO běžným způsobem až do momentu ulehnutí do postele.
 
-- 2. týden (Optimalizovaný režim): Minimálně 90 minut před spaním jsem na iPhonu zapnul režim Night Shift, na monitoru AOC stáhl jas na minimum a zapnul noční režim Windows. Hlavní světlo jsem vypnul a svítil si pouze ztlumenou stolní lampičkou Kaja. Modrý displej hodin ALTRO jsem na noc vypojil (ručičky stejně nefungují 😂).
+2. týden (Optimalizovaný režim): Minimálně 90 minut před spaním jsem na iPhonu zapnul režim Night Shift, na monitoru AOC stáhl jas na minimum a zapnul noční režim Windows. Hlavní světlo jsem vypnul a svítil si pouze ztlumenou stolní lampičkou Kaja. Modrý displej hodin ALTRO jsem na noc vypojil (ručičky stejně nefungují 😂).
 
 ## Výsledky pozorování a porovnání s předpoklady
 Po čtrnácti dnech testování zde zhodnotím, jak jednotlivé zdroje světla ovlivňovaly mé tělo, oči i spánek a zda se potvrdily mé původní předpoklady:
