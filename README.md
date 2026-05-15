@@ -134,7 +134,7 @@ Modré světlo z hodin v naprosté tmě sice svítí málo a lidské oko je na m
 Během druhého týdne bylo nejtěžší si zvyknout na disciplínu. Nezapomenout včas ztlumit světla a zapnout filtry je těžší než se zdá. Tento problém jsem ale vyřešil tak, že jsem si na iPhonu nastavil automatické zapínání funkce Night Shift a ztlumení jasu se začlo spouštět samo ve 21:00, což mě zároveň upozornovalo, že mám ztlumit i stolní lampičku Kaja.
 
 ### Závěr projektu 
-Čtrnáctidenní praktická část projektu jasně dokázala, že světlo má velký a silný vliv na naši pohodu a hlavně spánek. Pro mě to bylo velmi zajímavé téma a chci ještě jednou poděkovat za jeho doporučení. Chtěl bych i poděkovat ChatuGPT a Gemini AI za pomoc s formulováním některých textů a s doporučením jak si sestavit plán měření. Nebylo to nic co bych si nemyslel, ale bylo krásně vidět jak se mi to potvrdilo a jak to světlo má okamžitý vliv ze dne na den. Takže doufám, že se Vám projekt líbí, a že Vás třeba i zaujal 😇. Děkuji moc, Josef Hovorka 🤪.
+Čtrnáctidenní praktická část projektu jasně dokázala, že světlo má velký a silný vliv na naši pohodu a hlavně spánek. Pro mě to bylo velmi zajímavé téma a chci ještě jednou poděkovat za jeho doporučení. Chtěl bych i poděkovat ChatuGPT a Gemini AI za pomoc s formulováním některých textů a s doporučením jak si sestavit plán měření. Nebylo to nic co bych si nemyslel, ale bylo krásně vidět jak se mi to potvrdilo a jak to světlo má okamžitý vliv ze dne na den. Takže doufám, že se Vám projekt líbí, a že Vás třeba i zaujal 😇. Jako poslední bych se chtěl omluvit, že jsem neudělal video ale vůbec mě nic nenapadalo jak ho vytvořit tak mi tato 14 denní metoda přišla lepší a i příjemnější. Děkuji moc, Josef Hovorka 🤪.
 
 
 
