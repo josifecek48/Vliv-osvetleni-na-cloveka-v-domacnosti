@@ -28,25 +28,25 @@ Lidské oči reagují na světlo pomocí zornice a fotoreceptorů, které se př
 
 ### Hlavní světlo v pokoji
 
-![světlo](hl.světlo.heic)
+![světlo](hl.světlo.jpg)
 
 Hlavním zdrojem světla v pokoji jsou běžné LED žárovky se světlem bílé barvy. Toto osvětlení poskytuje dostatečný jas pro běžné denní činnosti, jako je úklid, pohyb po pokoji nebo učení. Bílé LED světlo podporuje bdělost a aktivitu, ale ve večerních hodinách může působit rušivě. Pokud je používáno těsně před spaním, může negativně ovlivňovat usínání, protože stimuluje organismus a snižuje přirozený pocit únavy. Z tohoto důvodu je vhodné toto světlo používat především přes den a večer jeho intenzitu omezit.
 
 ### Lampička na stole
 
-![lampa](lampa.heic)
+![lampa](lampa.jpg)
 
 Na pracovním stole používám stolní lampičku Kaja – stolní lampička se stmívačem LED 6W (KBL 1391 Silver). Tato lampička umožňuje plynulou regulaci jasu, což je její hlavní výhoda. Při učení nebo práci lze nastavit vyšší intenzitu světla, která pomáhá soustředění a snižuje namáhání očí. Ve večerních hodinách je možné jas snížit, aby světlo nebylo příliš ostré. Díky možnosti stmívání je tato lampička vhodnější než klasické stolní světlo bez regulace, protože se dá lépe přizpůsobit denní době.
 
 ### Osvětlení z hodin
 
-![hodiny](hodiny.heic)
+![hodiny](hodiny.jpg)
 
 V pokoji mám nástěnné LED hodiny ALTRO s modrým podsvícením. Toto světlo má nízkou intenzitu, ale výraznou modrou barvu. Modré světlo je známé tím, že potlačuje tvorbu melatoninu, hormonu důležitého pro spánek. I slabé modré světlo může v noci působit rušivě, zejména pokud svítí během spánku. Z tohoto důvodu nejsou modře podsvícené hodiny ideální do ložnice a mohou mít negativní vliv na kvalitu spánku.
 
 ### Světlo z monitoru
 
-![monitor](monitor.heic)
+![monitor](monitor.jpg)
 
 Používám monitor 32" AOC C32G2ZE Gaming, který má vysoký jas a velkou plochu displeje. Tento monitor vyzařuje značné množství modrého světla, což je typické pro moderní LED displeje. Při dlouhodobém používání, hlavně ve večerních hodinách, může docházet k únavě očí, pálení nebo bolestem hlavy. Zároveň může světlo z monitoru negativně ovlivňovat spánek, pokud je používán krátce před spaním. Vhodným řešením je snížení jasu, použití nočního režimu nebo omezení používání monitoru večer.
 
